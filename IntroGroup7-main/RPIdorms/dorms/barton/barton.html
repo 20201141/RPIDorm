@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>Dorms</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+      <link rel="stylesheet" href="../specific_resources/specific.css"/>
+      <link rel="stylesheet" href="../../resources/main.css"/>
+      <link href="http://www.rpi.edu/favicon.ico" type="image/ico" rel="icon"/>
+      <script type="text/javascript" src="../dorms_resources/jquery-1.4.3.min.js"></script>
+      <script type="text/javascript" src="../specific_resources/dorm_setup.js"></script>
+      <script src="https://kit.fontawesome.com/b4b643b1d7.js" crossorigin="anonymous"></script>
+      <script type="text/javascript" src="../../resources/main.js"></script>
+   </head>
+   <body>
+      <header>
+         <div class="logo">
+           <a href="../../index.html"><img src="../../resources/Images/logo.jpg" alt="icon" /></a>
+           <h1><a href="../../index.html">RPI Dorms</a></h1>
+         </div>
+         <ul class="menu">
+           <li class="dropdown">
+             <button onclick="dropdownFunc()" class="dropbtn">
+               <a href="../../dorms/dorms.html">Dorms</a>
+               <i class="fa fa-caret-down"></i>
+             </button>
+             <ul id="myDropdown" class="dropdown-content">
+               <li><a href="../barh/barh.html">BARH</a></li>
+               <li><a href="../bray/bray.html">Bray</a></li>
+               <li><a href="../davison/davison.html">Davison</a></li>
+               <li><a href="../barton/barton.html">Barton</a></li>
+               <li><a href="../cary/cary.html">Cary</a></li>
+               <li><a href="../crockett/crockett.html">Crockett</a></li>
+               <li><a href="../ecomplex/ecomplex.html">E-Complex</a></li>
+               <li><a href="../hall/hall.html">Hall</a></li>
+               <li><a href="../nason/nason.html">Nason</a></li>
+               <li><a href="../north/north.html">North</a></li>
+               <li><a href="../warren/warren.html">Warren</a></li>
+               <li><a href="../sharp/sharp.html">Sharp</a></li>
+             </ul>
+           </li>
+           <li><a href="../../faq/faq.html">FAQ</a></li>
+           <li><a href="../../upload_img/upload.html">Upload Images</a></li>
+           <li><a href="../../map/map.html">Map</a></li>
+           <li><a href="../../about/about.html">About</a></li>
+         </ul>
+       </header>
+      <div id="content">
+         <div id="page-container">
+            <div id="info"></div>
+            <div class="photos"></div>
+         </div>
+         <div class="review">
+            <h2>Leave Us a Comment/review</h2>
+            <div class="rating">
+               <input type="radio" name="rating" value="5" id="5"><label for="5">☆</label>
+               <input type="radio" name="rating" value="4" id="4"><label for="4">☆</label>
+               <input type="radio" name="rating" value="3" id="3"><label for="3">☆</label>
+               <input type="radio" name="rating" value="2" id="2"><label for="2">☆</label>
+               <input type="radio" name="rating" value="1" id="1"><label for="1">☆</label>
+            </div>
+            <div class="comment">
+               <form>
+                  <textarea placeholder='Add Your Comment' id="comment_box"></textarea>
+                  <div class="btn">
+                     <input type="submit" value='comment'>
+                     <button id='clear' href='#'>Cancel</button>
+                  </div>
+               </form>
+            </div>
+         </div>
+      </div>
+      <footer>
+         <div class="left">
+            <h2>About Us</h2>
+            <div class="content">
+               <p>RPIdorms is a website created with the intention of helping 
+                  RPI students learn more about student life and dorms.
+               </p>
+               <div class="social">
+                  <a href="mailto:rheeb2@rpi.edu" class="fa-solid fa-envelope fa-xl"></a>
+                  <a href="https://github.com/ShellyKn/IntroGroup7" class="fa-brands fa-github fa-xl"></a>
+               </div>
+            </div>
+         </div>
+         <div class="right">
+            <h2>Resources</h2>
+            <div class="content">
+               <ul>
+                  <li><a href="https://reslife.rpi.edu/">ResLife</a></li>
+                  <li><a href="https://rpirooms.com/">RPIrooms</a></li>
+               </ul>
+            </div>
+         </div>
+         <div class="copyright">
+            <p><span>&#169;</span> 2022 ITWS 1100 - Group 7</p>
+         </div>
+      </footer>
+   </body>
+</html>

@@ -1,0 +1,148 @@
+{
+  "dorms": [
+    {
+      "id": "barh",
+      "name": "Burdett Avenue Residence Hall (BARH)",
+      "dormIMG": "dorms_resources/img/barh.gif",
+      "numOccu": "315",
+      "restroom": "In Room",
+      "ac": "No",
+      "printer": "Yes",
+      "kitchen": "Yes",
+      "nearby": "BarH Dining Hall, Houston Playhouse, ECAV",
+      "link": "barh/barh.html"
+    },
+    {
+      "id": "bray",
+      "name": "Bray Hall",
+      "dormIMG": "dorms_resources/img/bray.jpg",
+      "numOccu": "142",
+      "restroom": "On Floor",
+      "ac": "No",
+      "printer": "Yes",
+      "kitchen": "Yes",
+      "nearby": "Common Dining Hall, RPI Union, Mueller Center", 
+      "link": "bray/bray.html"
+    },
+    {
+      "id": "davison",
+      "name": "Davison Hall",
+      "dormIMG": "dorms_resources/img/davisonMain.jpg",
+      "numOccu": "102",
+      "restroom": "In Room",
+      "ac": "Yes",
+      "printer": "Yes",
+      "kitchen": "Yes",
+      "nearby": "Common Dining Hall, RPI Union, Meuller Center", 
+      "link": "davison/davison.html"
+    },
+    {
+      "id": "barton",
+      "name": "Barton Hall",
+      "dormIMG": "dorms_resources/img/barton1.jpg",
+      "numOccu": "291",
+      "restroom": "In Room, On Floor",
+      "ac": "Yes",
+      "printer": "Yes",
+      "kitchen": "Yes",
+      "nearby": "Common Dining Hall, RPI Union, Meuller Center", 
+      "link": "barton/barton.html"
+    },
+    {
+      "id": "cary",
+      "name": "Cary Hall",
+      "dormIMG": "dorms_resources/img/cary2.jpg",
+      "numOccu": "142",
+      "restroom": "On Floor",
+      "ac": "No",
+      "printer": "Yes",
+      "kitchen": "Yes",
+      "nearby": "Common Dining Hall, RPI Union, Mueller Center", 
+      "link": "cary/cary.html"
+    },
+    {
+      "id": "crockett",
+      "name": "Crockett Hall",
+      "dormIMG": "dorms_resources/img/crockett.jpg",
+      "numOccu": "147",
+      "restroom": "On Floor",
+      "ac": "No",
+      "printer": "Yes",
+      "kitchen": "Yes",
+      "nearby": "Common Dining Hall, RPI Union, Mueller Center", 
+      "link": "crockett/crockett.html"
+    },
+    {
+      "id": "eComplex",
+      "name": "E-Complex",
+      "dormIMG": "dorms_resources/img/ecomplex.png",
+      "numOccu": "107",
+      "restroom": "On Floor",
+      "ac": "Yes",
+      "printer": "No",
+      "kitchen": "Yes",
+      "nearby": "Anderson Field, 86 Field, RPI Union", 
+      "link": "ecomplex/ecomplex.html"
+    },
+    {
+      "id": "hall",
+      "name": "Hall Hall",
+      "dormIMG": "dorms_resources/img/hall.jpg",
+      "numOccu": "140",
+      "restroom": "On Floor",
+      "ac": "No",
+      "printer": "Yes",
+      "kitchen": "Yes",
+      "nearby": "Common Dining Hall, RPI Union, Mueller Center", 
+      "link": "hall/hall.html"
+    },
+    {
+      "id": "nason",
+      "name": "Nason Hall",
+      "dormIMG": "dorms_resources/img/nason.jpg",
+      "numOccu": "142",
+      "restroom": "On Floor",
+      "ac": "No",
+      "printer": "Yes",
+      "kitchen": "Yes",
+      "nearby": "Common Dining Hall, RPI Union, Mueller Center", 
+      "link": "nason/nason.html"
+    },
+    {
+      "id": "north",
+      "name": "North Hall",
+      "dormIMG": "dorms_resources/img/north.png",
+      "numOccu": "87",
+      "restroom": "On Floor", 
+      "ac": "Yes",
+      "printer": "Yes",
+      "kitchen": "Yes",
+      "nearby": "Common Dining Hall, RPI Union, Mueller Center", 
+      "link": "north/north.html"
+    },
+    {
+      "id": "warren",
+      "name": "Warren Hall",
+      "dormIMG": "dorms_resources/img/warren.jpg",
+      "numOccu": "110",
+      "restroom": "In Room",
+      "ac": "No",
+      "printer": "Yes",
+      "kitchen": "Yes",
+      "nearby": "Common Dining Hall, RPI Union, Mueller Center", 
+      "link": "warren/warren.html"
+    },
+    {
+      "id": "sharp",
+      "name": "Sharp Hall",
+      "dormIMG": "dorms_resources/img/sharp1.gif",
+      "numOccu": "94",
+      "restroom": "In Room",
+      "ac": "Yes",
+      "printer": "Yes",
+      "kitchen": "Yes",
+      "nearby": "Common Dining Hall, RPI Union, Mueller Center", 
+      "link": "sharp/sharp.html"
+    }
+  ]
+}

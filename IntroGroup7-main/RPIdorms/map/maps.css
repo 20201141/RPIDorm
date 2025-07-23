@@ -1,0 +1,11 @@
+h3 {
+  padding-left:15%;
+}
+.body {
+  font-size: 20px;
+}
+#google-maps { 
+  padding-left: 15%;
+  padding-bottom: 10%;
+  overflow: hidden;
+}

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>RPIdorms</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="resources/main.css">
+  <link rel="stylesheet" href="resources/homepage_body.css"/>
+  <link href="http://www.rpi.edu/favicon.ico" type="image/ico" rel="icon"/>
+  <script src="https://kit.fontawesome.com/b4b643b1d7.js" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="./dorms_resources/jquery-1.4.3.min.js"></script>
+  <script type="text/javascript" src="./resources/main.js"></script>
+</head>
+<body>
+  <!-- Ariticle sections into 3 cells (Top, Middle, Bottom) -->
+  <article>
+    <!-- (Top grid section) -->
+    <header> 
+      <div class="logo">
+        <a href="./index.html"><img src="resources/Images/logo.jpg" alt="icon" /></a>
+        <h1><a href="./index.html">RPI Dorms</a></h1>
+      </div>
+      <ul class="menu">
+        <li class="dropdown">
+          <button onclick="dropdownFunc()" class="dropbtn">
+            <a href="dorms/dorms.html">Dorms</a>
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <ul id="myDropdown" class="dropdown-content">
+            <li><a href="dorms/barh/barh.html">BARH</a></li>
+            <li><a href="dorms/bray/bray.html">Bray</a></li>
+            <li><a href="dorms/davison/davison.html">Davison</a></li>
+            <li><a href="dorms/barton/barton.html">Barton</a></li>
+            <li><a href="dorms/cary/cary.html">Cary</a></li>
+            <li><a href="dorms/crockett/crockett.html">Crockett</a></li>
+            <li><a href="dorms/ecomplex/ecomplex.html">E-Complex</a></li>
+            <li><a href="dorms/hall/hall.html">Hall</a></li>
+            <li><a href="dorms/nason/nason.html">Nason</a></li>
+            <li><a href="dorms/north/north.html">North</a></li>
+            <li><a href="dorms/warren/warren.html">Warren</a></li>
+            <li><a href="dorms/sharp/sharp.html">Sharp</a></li>
+          </ul>
+        </li>
+        <li><a href="faq/faq.html">FAQ</a></li>
+        <li><a href="upload_img/upload.html">Upload Images</a></li>
+        <li><a href="map/map.html">Map</a></li>
+        <li><a href="about/about.html">About</a></li>
+      </ul>
+    </header>
+  
+    <!-- (Middle grid section) 4 different grid cells within this section -->
+    <div id = "container">
+      <!-- 1st cell, main overarching image -->
+      <div class = "opening">
+       
+        <h1>Welcome to RPI Dorms</h1>
+        <!-- Search bar implementation, uses javascript -->
+        <!-- <div class = "search">Search</div> -->
+        <div class="search-box">
+          <input class="search-txt" type="text" name="" placeholder="Search">
+          <a class="search-btn" href="#"><i class="fas fa-search"></i></a>
+          
+      </div>
+        <p>Are you an incoming student at Rensselear? Look for the perfect dorm
+          that suits your needs all in the same place! </p>
+        
+            
+       
+      </div>
+      
+      <div id="dorm1" class="popular_dorms">
+        <h1><a href="dorms/barton/barton.html">Barton</a></h1>
+        <img src="resources/Images/barton.jpg" class = "center">        
+        
+        <p>Newest dorm and has a lot of study rooms!</p>
+        
+      </div>
+      <div id="dorm2" class="popular_dorms">
+        <h1><a href="dorms/davison/davison.html">Davison</a></h1>
+        <img src="resources/Images/davisonMain.jpg" class = "center">
+        
+        <p>It has an AC!</p>
+      </div>
+      <div id="dorm3" class="popular_dorms">
+        <h1><a href="dorms/barh/barh.html">BarH</a></h1>
+        <img src="resources/Images/barh.gif" class = "center">
+        
+        <p>It's close to the Houston Field House and ECAV!</p>
+        
+      </div>
+    </div>
+  
+    <!-- (Bottom grid section) info about the project and external links -->
+    <footer>
+      <div class="left">
+        <h2>About Us</h2>
+        <div class="content">
+          <p>RPIdorms is a website created with the intention of helping 
+              RPI students learn more about student life and dorms.</p>
+              <div class="social">
+                <a href="mailto:rheeb2@rpi.edu" class="fa-solid fa-envelope fa-xl"></a>
+              <a href="https://github.com/ShellyKn/IntroGroup7" class="fa-brands fa-github fa-xl"></a>
+              </div>
+        </div>
+      </div>
+
+      <div class="right">
+        <h2>Resources</h2>
+        <div class="content">
+          <ul>
+            <li><a href="https://reslife.rpi.edu/">ResLife</a></li>
+            <li><a href="https://rpirooms.com/">RPIrooms</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="copyright">
+        <p><span>&#169;</span> 2022 ITWS 1100 - Group 7</p>
+      </div>
+    </footer>
+  </article>
+</body>
+</html>

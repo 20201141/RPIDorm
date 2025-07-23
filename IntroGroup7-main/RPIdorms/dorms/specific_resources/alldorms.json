@@ -1,0 +1,1082 @@
+{
+  "dorms":[
+    {
+      "id":"barh",
+      "name":"Burdett Avenue Residence Hall (BARH)",
+      "dormIMG":{
+        "cover":"../specific_resources/img/barh.gif",
+        "small":[
+          "../specific_resources/img/barh2.gif",
+          "../specific_resources/img/barh3.jpg",
+          "../specific_resources/img/barh4.jpg",
+          "../specific_resources/img/barh5.jpg",
+          "../specific_resources/img/barh6.jpg"
+        ]
+      },
+      "rooms":[
+        "Single (170 sqft)",
+        "Double (240 sqft)",
+        "Triple (240 sqft)"
+      ],
+      "price":[
+        "$10,610",
+        "$9,370",
+        "$8,190"
+      ],
+      "type":"Suite",
+      "students_per_suite":"2 to 6",
+      "numOccu":"315",
+      "student_staff":"11",
+      "numFloor":"4",
+      "theme_community":" No ",
+      "co-ed":" Yes ",
+      "gender_breakdown":"Mixed Gender",
+      "inclusive":" Yes ",
+      "restroom":"In Room",
+      "cleaning":" Yes ",
+      "schedule":"Once a week",
+      "gender_restroom":" No ",
+      "furniture":{
+        "Wardrobe ":[
+          " Yes ",
+          "36 x 25 x 72"
+        ],
+        "Built in Closet ":[
+          " No "
+        ],
+        "Loftable/Bunkable Bed ":" Yes ",
+        "Mattress Size ":"Extra Long Twin - 36 x 80 x 6",
+        "Underbed Height ":"30",
+        "Desk and Chair ":[
+          " Yes ",
+          "48 x 24"
+        ],
+        "Bookcase ":[
+          " Yes ",
+          "36 x 9 x 26"
+        ],
+        "Dresser ":[
+          " No "
+        ]
+      },
+      "amenities":{
+        "Air Conditioning":" No ",
+        "Blinds":" Yes ",
+        "Building Lounge":" Yes ",
+        "Cable TV":" Yes ",
+        "Card Access Required for Entry":" Yes ",
+        "Carpet":" No ",
+        "Classroom":" No ",
+        "Elevator":" No ",
+        "Ethernet":" Yes ",
+        "Floor Lounge":" No ",
+        "Indoor Bicycle Storage":" Yes ",
+        "Kitchen/Kitchenette":[
+          " Yes ",
+          "(Each wing)"
+        ],
+        "Laundry":[
+          " Yes ",
+          "(Varies by wing and first floor)"
+        ],
+        "Printer in Building":[
+          " Yes ",
+          "Third floor study room"
+        ],
+        "Study Room(s)":" Yes ",
+        "Wireless":" Yes "
+      },
+      "nearby":"BarH Dining Hall, Houston Playhouse, ECAV",
+      "link":"barh/barh.html"
+    },
+    {
+      "id":"bray",
+      "name":"Bray Hall",
+      "dormIMG":{
+        "cover":"../specific_resources/img/bray1.jpg",
+        "small":[
+          "../specific_resources/img/bray2.jpg",
+          "../specific_resources/img/bray3.webp",
+          "../specific_resources/img/bray4.webp",
+          "../specific_resources/img/bray5.webp"
+        ]
+      },
+      "rooms":[
+        "Single (110 sqft)",
+        "Double (175 sqft)",
+        "Triple (260 sqft)"
+      ],
+      "price":[
+        "$10,610",
+        "$9,370",
+        "$8,190"
+      ],
+      "type":"Traditional",
+      "students_per_suite":"N/A",
+      "numOccu":"142",
+      "student_staff":"5",
+      "numFloor":"3",
+      "theme_community":" No ",
+      "co-ed":" Yes ",
+      "gender_breakdown":"Separated by wing/floor",
+      "inclusive":" No ",
+      "restroom":"On Floor",
+      "cleaning":" Yes ",
+      "schedule":"Monday-Friday",
+      "gender_restroom":" No ",
+      "furniture":{
+        "Wardrobe ":[
+          " No "
+        ],
+        "Built in Closet ":[
+          " No ",
+          "68 x 26 x 80"
+        ],
+        "Loftable/Bunkable Bed ":" Yes ",
+        "Mattress Size ":"N/A",
+        "Underbed Height ":"30",
+        "Desk and Chair ":[
+          " Yes ",
+          "48 x 24"
+        ],
+        "Bookcase ":[
+          " Yes ",
+          "36 x 9 x 26"
+        ],
+        "Dresser ":[
+          " No "
+        ]
+      },
+      "amenities":{
+        "Air Conditioning":" No ",
+        "Blinds":" Yes ",
+        "Building Lounge":" No ",
+        "Cable TV":" Yes ",
+        "Card Access Required for Entry":" Yes ",
+        "Carpet":" Yes ",
+        "Classroom":[
+          " Yes ",
+          "Hallways, rooms, common spaces"
+        ],
+        "Elevator":" No ",
+        "Ethernet":" Yes ",
+        "Floor Lounge":" Yes ",
+        "Indoor Bicycle Storage":" Yes ",
+        "Kitchen/Kitchenette":[
+          " Yes ",
+          "First floor"
+        ],
+        "Laundry":[
+          " Yes ",
+          "Basement"
+        ],
+        "Printer in Building":[
+          " Yes ",
+          "Third floor study room"
+        ],
+        "Study Room(s)":" Yes ",
+        "Wireless":" Yes "
+      },
+      "nearby":"Common Dining Hall, RPI Union, Mueller Center",
+      "link":"bray/bray.html"
+    },
+    {
+      "id":"davison",
+      "name":"Davison Hall",
+      "dormIMG":{
+        "cover":"../specific_resources/img/davison1.jpg",
+        "small":[
+          "../specific_resources/img/davison2.jpg",
+          "../specific_resources/img/davison3.jpg",
+          "../specific_resources/img/davison4.png",
+          "../specific_resources/img/davison5.jpg"
+        ]
+      },
+      "rooms":[
+        "Single (150 sqft)",
+        "Double (250 sqft)"
+      ],
+      "price":[
+        "$10,610",
+        "$9,370"
+      ],
+      "type":"Suite",
+      "students_per_suite":"2",
+      "numOccu":"102",
+      "student_staff":"5",
+      "numFloor":"4",
+      "theme_community":" No ",
+      "co-ed":" Yes ",
+      "gender_breakdown":"Mixed Gender",
+      "inclusive":" Yes ",
+      "restroom":"In Room",
+      "cleaning":" Yes ",
+      "schedule":"Once a week",
+      "gender_restroom":" No ",
+      "furniture":{
+        "Wardrobe ":[
+          " Yes ",
+          "36 x 25 x 72"
+        ],
+        "Built in Closet ":[
+          " No "
+        ],
+        "Loftable/Bunkable Bed ":" Yes ",
+        "Mattress Size ":"Extra Long Twin - 36 x 80 x 6",
+        "Underbed Height ":"30",
+        "Desk and Chair ":[
+          " Yes ",
+          "48 x 24"
+        ],
+        "Bookcase ":[
+          " Yes ",
+          "36 x 9 x 26"
+        ],
+        "Dresser ":[
+          " No "
+        ]
+      },
+      "amenities":{
+        "Air Conditioning":" Yes ",
+        "Blinds":" Yes ",
+        "Building Lounge":" Yes ",
+        "Cable TV":" Yes ",
+        "Card Access Required for Entry":" Yes ",
+        "Carpet":[
+          " Yes ",
+          "Hallways, rooms, common spaces"
+        ],
+        "Classroom":" No ",
+        "Elevator":" No ",
+        "Ethernet":" Yes ",
+        "Floor Lounge":" Yes ",
+        "Indoor Bicycle Storage":" No ",
+        "Kitchen/Kitchenette":[
+          " Yes ",
+          "First floor"
+        ],
+        "Laundry":[
+          " Yes ",
+          "First floor"
+        ],
+        "Printer in Building":[
+          " Yes ",
+          "Main lounge"
+        ],
+        "Study Room(s)":" No ",
+        "Wireless":" Yes "
+      },
+      "nearby":"Common Dining Hall, RPI Union, Mueller Center",
+      "link":"davison/davison.html"
+    },
+    {
+      "id":"barton",
+      "name":"Barton Hall",
+      "dormIMG":{
+        "cover":"../specific_resources/img/barton1.jpg",
+        "small":[
+          "../specific_resources/img/barton2.png",
+          "../specific_resources/img/barton3.png",
+          "../specific_resources/img/barton4.png",
+          "../specific_resources/img/barton5.jpg"
+        ]
+      },
+      "rooms":[
+        "Triple (215 sqft)"
+      ],
+      "price":[
+        "$9,690"
+      ],
+      "type":"Suite/Traditional",
+      "students_per_suite":"3 to 6",
+      "numOccu":"291",
+      "student_staff":"9",
+      "numFloor":"4",
+      "theme_community":" No ",
+      "co-ed":" Yes ",
+      "gender_breakdown":"Mixed Gender",
+      "inclusive":" Yes ",
+      "restroom":"On Floor, In Room",
+      "cleaning":" Yes ",
+      "schedule":"Once a week",
+      "gender_restroom":" No ",
+      "furniture":{
+        "Wardrobe ":[
+          " Yes ",
+          "36 x 25 x 72"
+        ],
+        "Built in Closet ":[
+          " No "
+        ],
+        "Loftable/Bunkable Bed ":" Yes ",
+        "Mattress Size ":"Extra Long Twin - 36 x 80 x 6",
+        "Underbed Height ":"30",
+        "Desk and Chair ":[
+          " Yes ",
+          "48 x 24"
+        ],
+        "Bookcase ":[
+          " Yes ",
+          "36 x 9 x 26"
+        ],
+        "Dresser ":[
+          " No ",
+          "32 x 19 x 30"
+        ]
+      },
+      "amenities":{
+        "Air Conditioning":" Yes ",
+        "Blinds":" Yes ",
+        "Building Lounge":" Yes ",
+        "Cable TV":" Yes ",
+        "Card Access Required for Entry":" Yes ",
+        "Carpet":[
+          " Yes ",
+          "Hallways, rooms, common spaces"
+        ],
+        "Classroom":" No ",
+        "Elevator":" Yes ",
+        "Ethernet":" Yes ",
+        "Floor Lounge":" Yes ",
+        "Indoor Bicycle Storage":" Yes ",
+        "Kitchen/Kitchenette":[
+          " Yes ",
+          "Each floor"
+        ],
+        "Laundry":[
+          " Yes ",
+          "Second  floor"
+        ],
+        "Printer in Building":[
+          " Yes ",
+          "Third floor A-wing study room"
+        ],
+        "Study Room(s)":" Yes ",
+        "Wireless":" Yes "
+      },
+      "nearby":"Common Dining Hall, RPI Union, Mueller Center",
+      "link":"barton/barton.html"
+    },
+    {
+      "id":"cary",
+      "name":"Cary Hall",
+      "dormIMG":{
+        "cover":"../specific_resources/img/cary1.jpg",
+        "small":[
+          "../specific_resources/img/cary2.webp",
+          "../specific_resources/img/cary3.webp",
+          "../specific_resources/img/cary4.webp",
+          "../specific_resources/img/cary5.webp"
+        ]
+      },
+      "rooms":[
+        "Single (110 sqft)",
+        "Double (175 sqft)",
+        "Triple (260 sqft)"
+      ],
+      "price":[
+        "$10,610",
+        "$9,370",
+        "$8,190"
+      ],
+      "type":"Traditional",
+      "students_per_suite":"N/A",
+      "numOccu":"142",
+      "student_staff":"5",
+      "numFloor":"3",
+      "theme_community":" No ",
+      "co-ed":" Yes ",
+      "gender_breakdown":"Separated by wing/floor",
+      "inclusive":" No ",
+      "restroom":"On Floor ",
+      "cleaning":" Yes ",
+      "schedule":"Monday-Friday",
+      "gender_restroom":" No ",
+      "furniture":{
+        "Wardrobe ":[
+          " No "
+        ],
+        "Built in Closet ":[
+          " Yes ",
+          "68 x 26 x 80"
+        ],
+        "Loftable/Bunkable Bed ":" Yes ",
+        "Mattress Size ":"Extra Long Twin - 36 x 80 x 6",
+        "Underbed Height ":"30",
+        "Desk and Chair ":[
+          " Yes ",
+          "48 x 24"
+        ],
+        "Bookcase ":[
+          " Yes ",
+          "36 x 9 x 26"
+        ],
+        "Dresser ":[
+          " No "
+        ]
+      },
+      "amenities":{
+        "Air Conditioning":" No ",
+        "Blinds":" Yes ",
+        "Building Lounge":" No ",
+        "Cable TV":" Yes ",
+        "Card Access Required for Entry":" Yes ",
+        "Carpet":[
+          " Yes ",
+          "Hallways, rooms, common spaces"
+        ],
+        "Classroom":" Yes ",
+        "Elevator":" No ",
+        "Ethernet":" Yes ",
+        "Floor Lounge":" Yes ",
+        "Indoor Bicycle Storage":" Yes ",
+        "Kitchen/Kitchenette":[
+          " Yes ",
+          "First floor"
+        ],
+        "Laundry":[
+          " Yes ",
+          "Basement"
+        ],
+        "Printer in Building":[
+          " Yes ",
+          "Third floor study room"
+        ],
+        "Study Room(s)":" Yes ",
+        "Wireless":" Yes "
+      },
+      "nearby":"Common Dining Hall, RPI Union, Mueller Center",
+      "link":"cary/cary.html"
+    },
+    {
+      "id":"crockett",
+      "name":"Crockett Hall",
+      "dormIMG":{
+        "cover":"../specific_resources/img/crockett1.jpg",
+        "small":[
+          "../specific_resources/img/crockett2.webp",
+          "../specific_resources/img/crockett3.webp",
+          "../specific_resources/img/crockett4.webp",
+          "../specific_resources/img/crockett5.webp"
+        ]
+      },
+      "rooms":[
+        "Single (110 sqft)",
+        "Double (175 sqft)",
+        "Triple (260 sqft)"
+      ],
+      "price":[
+        "$10,610",
+        "$9,370",
+        "$8,190"
+      ],
+      "type":"Traditional",
+      "students_per_suite":"N/A",
+      "numOccu":"147",
+      "student_staff":"5",
+      "numFloor":"3",
+      "theme_community":" No ",
+      "co-ed":" Yes ",
+      "gender_breakdown":"Separated by wing/floor",
+      "inclusive":" No ",
+      "restroom":"On Floor ",
+      "cleaning":" Yes ",
+      "schedule":"Monday-Friday",
+      "gender_restroom":" No ",
+      "furniture":{
+        "Wardrobe ":[
+          " No "
+        ],
+        "Built in Closet ":[
+          " Yes ",
+          "68 x 26 x 80"
+        ],
+        "Loftable/Bunkable Bed ":" Yes ",
+        "Mattress Size ":"Extra Long Twin - 36 x 80 x 6",
+        "Underbed Height ":"30",
+        "Desk and Chair ":[
+          " Yes ",
+          "48 x 24"
+        ],
+        "Bookcase ":[
+          " Yes ",
+          "36 x 9 x 26"
+        ],
+        "Dresser ":[
+          " No "
+        ]
+      },
+      "amenities":{
+        "Air Conditioning":" No ",
+        "Blinds":" Yes ",
+        "Building Lounge":" No ",
+        "Cable TV":" Yes ",
+        "Card Access Required for Entry":" Yes ",
+        "Carpet":[
+          " Yes ",
+          "Hallways, rooms, common spaces"
+        ],
+        "Classroom":" No ",
+        "Elevator":" No ",
+        "Ethernet":" Yes ",
+        "Floor Lounge":" Yes ",
+        "Indoor Bicycle Storage":" No ",
+        "Kitchen/Kitchenette":[
+          " Yes ",
+          "First floor"
+        ],
+        "Laundry":[
+          " Yes ",
+          "Basement"
+        ],
+        "Printer in Building":[
+          " Yes ",
+          "Third floor study room"
+        ],
+        "Study Room(s)":" Yes ",
+        "Wireless":" Yes "
+      },
+      "nearby":"Common Dining Hall, RPI Union, Mueller Center",
+      "link":"crockett/crockett.html"
+    },
+    {
+      "id":"ecomplex",
+      "name":"E-Complex Hall",
+      "dormIMG":{
+        "cover":"../specific_resources/img/ecom1.png",
+        "small":[
+          "../specific_resources/img/ecom2.webp",
+          "../specific_resources/img/ecom3.webp",
+          "../specific_resources/img/ecom4.webp",
+          "../specific_resources/img/ecom5.webp"
+        ]
+      },
+      "rooms":[
+        "Single (140 sqft)",
+        "Double (200 sqft)"
+      ],
+      "price":[
+        "$10,610",
+        "$9,370"
+      ],
+      "type":"Traditional",
+      "students_per_suite":"N/A",
+      "numOccu":"107",
+      "student_staff":"4",
+      "numFloor":"3",
+      "theme_community":" No ",
+      "co-ed":" Yes ",
+      "gender_breakdown":"Separated by wing/floor",
+      "inclusive":" No ",
+      "restroom":"On Floor ",
+      "cleaning":" Yes ",
+      "schedule":"Monday-Friday",
+      "gender_restroom":" Yes ",
+      "furniture":{
+        "Wardrobe ":[
+          " No "
+        ],
+        "Built in Closet ":[
+          " Yes ",
+          "68 x 26 x 80"
+        ],
+        "Loftable/Bunkable Bed ":" Yes ",
+        "Mattress Size ":"Extra Long Twin - 36 x 80 x 6",
+        "Underbed Height ":"30",
+        "Desk and Chair ":[
+          " Yes ",
+          "48 x 24"
+        ],
+        "Bookcase ":[
+          " Yes ",
+          "36 x 9 x 26"
+        ],
+        "Dresser ":[
+          " Yes ",
+          "32 x 19 x 30"
+        ]
+      },
+      "amenities":{
+        "Air Conditioning":" Yes ",
+        "Blinds":" Yes ",
+        "Building Lounge":" No ",
+        "Cable TV":" Yes ",
+        "Card Access Required for Entry":" Yes ",
+        "Carpet":[
+          " No "
+        ],
+        "Classroom":" No ",
+        "Elevator":" No ",
+        "Ethernet":" Yes ",
+        "Floor Lounge":" Yes ",
+        "Indoor Bicycle Storage":" No ",
+        "Kitchen/Kitchenette":[
+          " Yes ",
+          "First floor"
+        ],
+        "Laundry":[
+          " Yes ",
+          "Basement"
+        ],
+        "Printer in Building":[
+          " No "
+        ],
+        "Study Room(s)":" No ",
+        "Wireless":" Yes "
+      },
+      "nearby":"Russell Sage Dining Hall",
+      "link":"ecomplex/ecomplex.html"
+    },
+    {
+      "id":"hall",
+      "name":"Hall Hall",
+      "dormIMG":{
+        "cover":"../specific_resources/img/hall1.jpeg",
+        "small":[
+          "../specific_resources/img/hall2.webp",
+          "../specific_resources/img/hall3.webp",
+          "../specific_resources/img/hall4.webp",
+          "../specific_resources/img/hall5.webp"
+        ]
+      },
+      "rooms":[
+        "Single (110 sqft)",
+        "Double (175 sqft)",
+        "Triple (260 sqft)"
+      ],
+      "price":[
+        "$10,610",
+        "$9,370",
+        "$8,190"
+      ],
+      "type":"Traditional",
+      "students_per_suite":"N/A",
+      "numOccu":"140",
+      "student_staff":"5",
+      "numFloor":"3",
+      "theme_community":" No ",
+      "co-ed":" Yes ",
+      "gender_breakdown":"Separated by wing/floor",
+      "inclusive":" No ",
+      "restroom":"On Floor ",
+      "cleaning":" No ",
+      "schedule":"Monday-Friday",
+      "gender_restroom":" No ",
+      "furniture":{
+        "Wardrobe ":[
+          " No "
+        ],
+        "Built in Closet ":[
+          " Yes ",
+          "68 x 26 x 80"
+        ],
+        "Loftable/Bunkable Bed ":" Yes ",
+        "Mattress Size ":"Extra Long Twin - 36 x 80 x 6",
+        "Underbed Height ":"30",
+        "Desk and Chair ":[
+          " Yes ",
+          "48 x 24"
+        ],
+        "Bookcase ":[
+          " Yes ",
+          "36 x 9 x 26"
+        ],
+        "Dresser ":[
+          " No "
+        ]
+      },
+      "amenities":{
+        "Air Conditioning":" No ",
+        "Blinds":" Yes ",
+        "Building Lounge":" No ",
+        "Cable TV":" Yes ",
+        "Card Access Required for Entry":" Yes ",
+        "Carpet":[
+          " Yes ",
+          "Hallways, rooms, common spaces"
+        ],
+        "Classroom":" No ",
+        "Elevator":" No ",
+        "Ethernet":" Yes ",
+        "Floor Lounge":" Yes ",
+        "Indoor Bicycle Storage":" Yes ",
+        "Kitchen/Kitchenette":[
+          " Yes ",
+          "First floor"
+        ],
+        "Laundry":[
+          " Yes ",
+          "Basement"
+        ],
+        "Printer in Building":[
+          " Yes ",
+          "Third floor study room"
+        ],
+        "Study Room(s)":" Yes ",
+        "Wireless":" Yes "
+      },
+      "nearby":"Common Dining Hall, RPI Union, Mueller Center",
+      "link":"hall/hall.html"
+    },
+    {
+      "id":"nason",
+      "name":"Nason Hall",
+      "dormIMG":{
+        "cover":"../specific_resources/img/nason1.jpg",
+        "small":[
+          "../specific_resources/img/nason2.webp",
+          "../specific_resources/img/nason3.webp",
+          "../specific_resources/img/nason4.webp",
+          "../specific_resources/img/nason5.webp"
+        ]
+      },
+      "rooms":[
+        "Single (110 sqft)",
+        "Double (175 sqft)",
+        "Triple (260 sqft)"
+      ],
+      "price":[
+        "$10,610",
+        "$9,370",
+        "$8,190"
+      ],
+      "type":"Traditional",
+      "students_per_suite":"N/A",
+      "numOccu":"142",
+      "student_staff":"5",
+      "numFloor":"4",
+      "theme_community":[
+        " Yes ",
+        "Vasudha"
+      ],
+      "co-ed":" Yes ",
+      "gender_breakdown":"Mixed Gender",
+      "inclusive":" No ",
+      "restroom":"On Floor ",
+      "cleaning":" Yes ",
+      "schedule":"Monday-Friday",
+      "gender_restroom":" No ",
+      "furniture":{
+        "Wardrobe ":[
+          " No "
+        ],
+        "Built in Closet ":[
+          " Yes ",
+          "68 x 26 x 80"
+        ],
+        "Loftable/Bunkable Bed ":" Yes ",
+        "Mattress Size ":"Extra Long Twin - 36 x 80 x 6",
+        "Underbed Height ":"30",
+        "Desk and Chair ":[
+          " Yes ",
+          "48 x 24"
+        ],
+        "Bookcase ":[
+          " Yes ",
+          "36 x 9 x 26"
+        ],
+        "Dresser ":[
+          " No "
+        ]
+      },
+      "amenities":{
+        "Air Conditioning":" No ",
+        "Blinds":" Yes ",
+        "Building Lounge":" Yes ",
+        "Cable TV":" Yes ",
+        "Card Access Required for Entry":" Yes ",
+        "Carpet":[
+          " Yes ",
+          "Hallways, rooms, common spaces"
+        ],
+        "Classroom":" Yes ",
+        "Elevator":" No ",
+        "Ethernet":" Yes ",
+        "Floor Lounge":" Yes ",
+        "Indoor Bicycle Storage":" No ",
+        "Kitchen/Kitchenette":[
+          " Yes ",
+          "First floor"
+        ],
+        "Laundry":[
+          " Yes ",
+          "Basement"
+        ],
+        "Printer in Building":[
+          " Yes ",
+          "Third floor study room"
+        ],
+        "Study Room(s)":" Yes ",
+        "Wireless":" Yes "
+      },
+      "nearby":"Common Dining Hall, RPI Union, Mueller Center",
+      "link":"nason/nason.html"
+    },
+    {
+      "id":"north",
+      "name":"North Hall",
+      "dormIMG":{
+        "cover":"../specific_resources/img/north1.webp",
+        "small":[
+          "../specific_resources/img/north2.webp",
+          "../specific_resources/img/north3.webp",
+          "../specific_resources/img/north4.webp",
+          "../specific_resources/img/north5.webp",
+          "../specific_resources/img/north6.webp",
+          "../specific_resources/img/north7.webp"
+        ]
+      },
+      "rooms":[
+        "Single (98 sqft)",
+        "Double (140 sqft)"
+      ],
+      "price":[
+        "$10,610",
+        "$9,370"
+      ],
+      "type":"Traditional",
+      "students_per_suite":"N/A",
+      "numOccu":"87",
+      "student_staff":"5",
+      "numFloor":"3",
+      "theme_community":" No ",
+      "co-ed":" Yes ",
+      "gender_breakdown":"Mixed Gender",
+      "inclusive":" Yes ",
+      "restroom":"On Floor",
+      "cleaning":" No ",
+      "schedule":"Monday-Friday",
+      "gender_restroom":" Yes ",
+      "furniture":{
+        "Wardrobe ":[
+          " Yes ",
+          "36 x 25 x 72"
+        ],
+        "Built in Closet ":[
+          " Yes ",
+          "23 x 32 x 81"
+        ],
+        "Loftable/Bunkable Bed ":" Yes ",
+        "Mattress Size ":"Extra Long Twin - 36 x 80 x 6",
+        "Underbed Height ":"30",
+        "Desk and Chair ":[
+          " Yes ",
+          "48 x 24"
+        ],
+        "Bookcase ":[
+          " Yes ",
+          "36 x 9 x 26"
+        ],
+        "Dresser ":[
+          " Yes ",
+          "32 x 19 x 30"
+        ]
+      },
+      "amenities":{
+        "Air Conditioning":" Yes ",
+        "Blinds":" Yes ",
+        "Building Lounge":" Yes ",
+        "Cable TV":" Yes ",
+        "Card Access Required for Entry":" Yes ",
+        "Carpet":" No ",
+        "Classroom":" No ",
+        "Elevator":" No ",
+        "Ethernet":" Yes ",
+        "Floor Lounge":" Yes ",
+        "Indoor Bicycle Storage":" No ",
+        "Kitchen/Kitchenette":[
+          " Yes ",
+          "First floor"
+        ],
+        "Laundry":[
+          " Yes ",
+          "First floor"
+        ],
+        "Printer in Building":[
+          " Yes ",
+          "First floor"
+        ],
+        "Study Room(s)":" Yes ",
+        "Wireless":" Yes "
+      },
+      "nearby":"Russell Sage Dining Hall",
+      "link":"North/North.html"
+    },
+    {
+      "id":"warren",
+      "name":"Warren Hall",
+      "dormIMG":{
+        "cover":"../specific_resources/img/warren1.jpg",
+        "small":[
+          "../specific_resources/img/warren2.webp",
+          "../specific_resources/img/warren3.webp",
+          "../specific_resources/img/warren4.webp",
+          "../specific_resources/img/warren5.webp"
+        ]
+      },
+      "rooms":[
+        "Single ",
+        "Double (231 sqft)"
+      ],
+      "price":[
+        "$10,610",
+        "$9,370"
+      ],
+      "type":"Suite",
+      "students_per_suite":"N/A",
+      "numOccu":"110",
+      "student_staff":"5",
+      "numFloor":"3",
+      "theme_community":" No ",
+      "co-ed":" Yes ",
+      "gender_breakdown":"Mixed Gender",
+      "inclusive":" No ",
+      "restroom":"In Room",
+      "cleaning":" Yes ",
+      "schedule":"Once a week",
+      "gender_restroom":" No ",
+      "furniture":{
+        "Wardrobe ":[
+          " Yes ",
+          "36 x 25 x 72"
+        ],
+        "Built in Closet ":[
+          " Yes ",
+          "68 x 26 x 80"
+        ],
+        "Loftable/Bunkable Bed ":" Yes ",
+        "Mattress Size ":"Extra Long Twin - 36 x 80 x 6",
+        "Underbed Height ":"30",
+        "Desk and Chair ":[
+          " Yes ",
+          "48 x 24"
+        ],
+        "Bookcase ":[
+          " Yes ",
+          "36 x 9 x 26"
+        ],
+        "Dresser ":[
+          " No "
+        ]
+      },
+      "amenities":{
+        "Air Conditioning":" No ",
+        "Blinds":" Yes ",
+        "Building Lounge":" Yes ",
+        "Cable TV":" Yes ",
+        "Card Access Required for Entry":" Yes ",
+        "Carpet":[
+          " Yes ",
+          "Hallways, rooms, common spaces"
+        ],
+        "Classroom":" No ",
+        "Elevator":" No ",
+        "Ethernet":" Yes ",
+        "Floor Lounge":" Yes ",
+        "Indoor Bicycle Storage":" Yes ",
+        "Kitchen/Kitchenette":[
+          " Yes ",
+          "First floor"
+        ],
+        "Laundry":[
+          " Yes ",
+          "Basement"
+        ],
+        "Printer in Building":[
+          " Yes ",
+          "Third floor study room"
+        ],
+        "Study Room(s)":" Yes ",
+        "Wireless":" Yes "
+      },
+      "nearby":"Common Dining Hall, RPI Union, Mueller Center",
+      "link":"warren/warren.html"
+    },
+    {
+      "id":"sharp",
+      "name":"Sharp Hall",
+      "dormIMG":{
+        "cover":"../specific_resources/img/sharp1.gif",
+        "small":[
+          "../specific_resources/img/sharp2.gif",
+          "../specific_resources/img/sharp3.gif",
+          "../specific_resources/img/sharp4.jpg",
+          "../specific_resources/img/sharp5.jpg",
+          "../specific_resources/img/sharp6.jpg",
+          "../specific_resources/img/sharp7.jpg"
+        ]
+      },
+      "rooms":[
+        "Single (101 sqft)"
+      ],
+      "price":[
+        "$10,610"
+      ],
+      "type":"Suite",
+      "students_per_suite":"6",
+      "numOccu":"94",
+      "student_staff":"4",
+      "numFloor":"3",
+      "theme_community":" No ",
+      "co-ed":" Yes ",
+      "gender_breakdown":"Mixed Gender",
+      "inclusive":" Yes ",
+      "restroom":"In Room",
+      "cleaning":" Yes ",
+      "schedule":"Once a week",
+      "gender_restroom":" No ",
+      "furniture":{
+        "Wardrobe ":[
+          " Yes ",
+          "36 x 25 x 72"
+        ],
+        "Built in Closet ":[
+          " No "
+        ],
+        "Loftable/Bunkable Bed ":" Yes ",
+        "Mattress Size ":"Extra Long Twin - 36 x 80 x 6",
+        "Underbed Height ":"30",
+        "Desk and Chair ":[
+          " Yes ",
+          "48 x 24"
+        ],
+        "Bookcase ":[
+          " Yes ",
+          "36 x 9 x 26"
+        ],
+        "Dresser ":[
+          " No "
+        ]
+      },
+      "amenities":{
+        "Air Conditioning":" Yes ",
+        "Blinds":" Yes ",
+        "Building Lounge":" No ",
+        "Cable TV":" Yes ",
+        "Card Access Required for Entry":" Yes ",
+        "Carpet":" No ",
+        "Classroom":" No ",
+        "Elevator":" No ",
+        "Ethernet":" Yes ",
+        "Floor Lounge":" No ",
+        "Indoor Bicycle Storage":" No ",
+        "Kitchen/Kitchenette":[
+          " Yes ",
+          "Basement"
+        ],
+        "Laundry":[
+          " Yes ",
+          "Basement"
+        ],
+        "Printer in Building":[
+          " Yes ",
+          "Basement"
+        ],
+        "Study Room(s)":" Yes ",
+        "Wireless":" Yes "
+      },
+      "nearby":"Common Dining Hall, RPI Union, Mueller Center",
+      "link":"sharp/sharp.html"
+    }
+  ]
+}
